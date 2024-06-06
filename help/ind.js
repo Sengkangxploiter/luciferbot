@@ -169,10 +169,10 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 🙏 *THANKS*
 ├ My god
 ├ My parents
-├ Rashid
-├ Xfarr api
-├ Fatih A.
-├ ZeeoneOfc
+├ XOneZy
+├ Lucifer_Xrifan
+├ Mr.P4πd4
+├ WolfCyber
 ├ Baileys#multi-device
 ├ And all support
 └──────
@@ -222,7 +222,7 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 exports.source = (prefix) =>{
 return`*── 「 SOURCE 」 ──*
 
-Original : https://github.com/rashidsiregar28/chikabot
+Original : https://github.com/Sengkangxploiter/chikabot
 
 `
 }
@@ -232,7 +232,7 @@ exports.tos = (ownerNumber, prefix) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 082135165584 (OVO/Dana/GoPay)
+🏧 082322957481 (OVO/Dana/GoPay)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
