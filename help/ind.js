@@ -222,7 +222,7 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 exports.source = (prefix) =>{
 return`*── 「 SOURCE 」 ──*
 
-Original : https://github.com/Sengkangxploiter/chikabot
+Original : https://github.com/Sengkangxploiter/luciferbot.git
 
 `
 }
